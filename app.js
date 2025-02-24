@@ -49,7 +49,16 @@
 
 
 // console(sub)...........................................................
+// var num1 =10;
+// var num2 =11;
+// var sub = num1 - num2;
+// console.log(sub);
+
+
+
+
+// console(mul)...........................................................
 var num1 =10;
 var num2 =11;
-var sub = num1 - num2;
-console.log(sub);
+var mul = num1 * num2;
+console.log(mul);

@@ -27,7 +27,14 @@
 
 
 // console (syntax reassign + data type number).......................
-var fullname=0
-fullname=1
-console.log(fullname);
+// var fullname=0
+// fullname=1
+// console.log(fullname);
+
+
+
+// console......................................................
+// var num1 =10;
+// var num2 =11;
+// console.log(num1 , num2);
 

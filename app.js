@@ -41,11 +41,15 @@
 
 
 // console(sum)...........................................................
-var num1 =10;
-var num2 =11;
-var sum = num1 + num2;
-console.log(sum);
+// var num1 =10;
+// var num2 =11;
+// var sum = num1 + num2;
+// console.log(sum);
 
 
 
 // console(sub)...........................................................
+var num1 =10;
+var num2 =11;
+var sub = num1 - num2;
+console.log(sub);

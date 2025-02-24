@@ -9,9 +9,13 @@
 // alert (a);
 
 
-// console..............................................
+// console......................................................
 // var a;
 // console.log(a);
 // a='abcd'
 // console.log(a);
 
+
+// console......................................................
+// var fullname ='shama tahir'
+// console.log(fullname);

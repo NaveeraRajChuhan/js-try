@@ -23,3 +23,11 @@
 // console (syntax reassign).......................................
 // fullname='shama rizwan'
 // console.log(fullname);
+
+
+
+// console (syntax reassign + data type number).......................
+var fullname=0
+fullname=1
+console.log(fullname);
+

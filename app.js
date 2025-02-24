@@ -19,3 +19,7 @@
 // console......................................................
 // var fullname ='shama tahir'
 // console.log(fullname);
+
+// console (syntax reassign).......................................
+// fullname='shama rizwan'
+// console.log(fullname);
